@@ -91,7 +91,6 @@ const Search = () => {
         </div>
         <div>
           <ul className="space-y-12">
-            {/* Dynamically create list items based on search results */}
             {quranChapters.map((chapter, index) => (
               <li key={index} onClick={(e) => e.stopPropagation()}>
                 {chapter}

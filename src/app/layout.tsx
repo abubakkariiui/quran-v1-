@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar/Navbar";
 import { ReactQueryClientProvider } from "@/components/ReactQueryClientProvider";
+import 'react-modern-drawer/dist/index.css'
 
 const inter = Inter({ subsets: ["latin"] });
 

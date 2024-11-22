@@ -1,4 +1,4 @@
-# Quran-v1
+# Al-Quran-v1
 
 ![image](https://github.com/user-attachments/assets/eda8e2b6-959f-4ce2-8302-9167c46c94e2)
 
